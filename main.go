@@ -43,7 +43,7 @@ var monthNumber = map[string]int{
 
 var folderName string
 
-var rgx *regex.Regexp
+var rgx *regexp.Regexp
 
 func main() {
 	//
